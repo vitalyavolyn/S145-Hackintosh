@@ -1,38 +1,37 @@
-# Lenovo Ideapad S145 Hackintosh I5 10Th Gen
-
+# Lenovo Ideapad S145 OpenCore
 
 ## My specs
 
 | Specs | Details |
 |------------|-------------------------------|
-| Model | Lenovo Ideapad S145 82DJ0001BR |
-| OS | macOS Ventura 13.0 (22A380) |
-| CPU | Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz |
-| RAM | 20 GB |
-| iGPU | Intel HD Graphics ICL RVP BigSur 3072 |
+| Model | Lenovo Ideapad S145 |
+| OS | macOS Ventura 13.3 |
+| CPU | Intel(R) Core(TM) i5-1035G1 |
+| RAM | 12 GB |
+| iGPU | Intel Iris Plus Graphics G1 |
 
 ### Works
 
 - [x] Intel Integrated Graphics
 - [x] USB
-- [ ] Webcam
 - [x] Brightness controls
 - [x] Battery percentage
 - [x] Sleep
 - [x] TouchPad w/ Advanced Gestures
 - [x] WiFi w/ USB Adapter
-- [ ] HDMI w/ Audio
+  - [x] Internet via USB with Android
 - [x] Speakers
 - [x] P2 Audio Jack w/ Microphone
 - [x] Integrated Microphone
 - [x] Apple Services (iCloud, Apple Music, Apple TV, others..)
-- [x] Bluetooth
 
 ### Doesn't work
 
+- [ ] Bluetooth
+  - [ ] Airdrop + Handoff (haven't tested)
+- [ ] HDMI
 - [ ] SD Card Reader (haven't tested)
-- [ ] Airdrop + Handoff (haven't tested)
-
+- [ ] Webcam (haven't tested)
 
 ## Guide
 
@@ -47,8 +46,6 @@
 - Copy this EFI folder
 - Generate your own SMBIOS
 
-### Créditos
+### Credits
 
-- https://www.olarila.com/
-- MaLd0n (https://www.olarila.com/profile/2-mald0n/)
-
+- joaodematejr (https://github.com/joaodematejr/S145-Hackintosh)

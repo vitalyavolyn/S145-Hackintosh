@@ -372,6 +372,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>HoRNDIS.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/HoRNDIS</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>IntelBluetoothFirmware.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1094,7 +1112,7 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DWVYMML7H</string>
+			<string>C02FCVY4ML7H</string>
 			<key>SystemUUID</key>
 			<string>24BF5640-C122-4659-B9A4-399F1D4EAE42</string>
 		</dict>
@@ -1105,11 +1123,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020527014NP8PGAD</string>
+			<string>C021091304NP8PGFB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>2fhcTq5C</data>
+			<data>64E6821DAA02</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -1155,7 +1173,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-5F9802EFE386AA28</string>
 			<key>BoardSerialNumber</key>
-			<string>C020527014NP8PGAD</string>
+			<string>C021091304NP8PGFB</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1191,7 +1209,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02DWVYMML7H</string>
 			<key>SystemUUID</key>
-			<string>24BF5640-C122-4659-B9A4-399F1D4EAE42</string>
+			<string>004AFB24-B10C-4173-8CBF-6EAB8F0D56B6</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
