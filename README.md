@@ -14,6 +14,7 @@
 
 - [x] Intel Integrated Graphics
 - [x] USB
+- [x] Webcam
 - [x] Brightness controls
 - [x] Battery percentage
 - [x] Sleep
@@ -31,7 +32,6 @@
   - [ ] Airdrop + Handoff (haven't tested)
 - [ ] HDMI
 - [ ] SD Card Reader (haven't tested)
-- [ ] Webcam (haven't tested)
 
 ## Guide
 
