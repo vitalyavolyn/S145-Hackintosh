@@ -17,7 +17,6 @@
 - [x] Webcam
 - [x] Brightness controls
 - [x] Battery percentage
-- [x] Sleep
 - [x] TouchPad w/ Advanced Gestures
 - [x] WiFi w/ USB Adapter
   - [x] Internet via USB with Android
@@ -32,6 +31,7 @@
   - [ ] Airdrop + Handoff (haven't tested)
 - [ ] HDMI
 - [ ] SD Card Reader (haven't tested)
+- [ ] Sleep
 
 ## Guide
 
