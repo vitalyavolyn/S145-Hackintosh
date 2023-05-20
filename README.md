@@ -24,11 +24,11 @@
 - [x] P2 Audio Jack w/ Microphone
 - [x] Integrated Microphone
 - [x] Apple Services (iCloud, Apple Music, Apple TV, others..)
+- [x] Bluetooth
+  - [ ] Airdrop + Handoff (haven't tested)
 
 ### Doesn't work
 
-- [ ] Bluetooth
-  - [ ] Airdrop + Handoff (haven't tested)
 - [ ] HDMI
 - [ ] SD Card Reader (haven't tested)
 - [ ] Sleep
