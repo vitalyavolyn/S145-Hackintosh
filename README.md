@@ -29,9 +29,9 @@
 
 ### Doesn't work
 
-- [ ] HDMI
+- [ ] HDMI (connector type was dropped from the Ice Lake framebuffer, no chance of fixing it)
 - [ ] SD Card Reader (haven't tested)
-- [ ] Sleep
+- [ ] Sleep (haven't tested)
 
 ## Guide
 
